@@ -12,6 +12,10 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 Written by Roland McGrath and Ulrich Drepper.
 ```
 
+解决办法：
+* 回退VSCode版本到1.85版本。
+* 设置禁止自动更新：VSCode设置中搜索：Update:Mode ，值改为none即可。
+
 # vscode 1.85下载网址
 各平台的下载链接:
 | Download type                        | URL                                                                 |
